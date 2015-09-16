@@ -1,22 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:27:59.499994
+#+DATE: 2015-08-30 19:28:00.824817
 #+TITLE: 尼拘陀梵志經
 #+PROPERTY: CBETA_ID T01n0011
 #+PROPERTY: ID KR6a0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 011
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6a0011_T_000-0222a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0011_T_002-0224b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說尼拘陀梵志經》卷下¶
+《佛說尼拘陀梵志經》卷下¶
 ¶
-西天譯經三藏朝奉大夫試光祿卿¶
-傳法大師賜紫沙門臣施護等奉　詔譯
+西天譯經三藏朝奉大夫試光祿卿傳法大師賜紫沙門臣施護等奉　詔譯
 <pb:KR6a0011_T_002-0224c>¶
 
 「復次，尼拘陀！汝等修行，若於如來、或於如¶
@@ -93,7 +91,7 @@
 鈍。尼拘陀！此即是為汝所修行煩惱隨增。¶
 
 「復次，尼拘陀！汝等修行，不能聽受，既如聾¶
-者，無所說示，又類啞羊。尼拘陀！此即是¶
+者，無所說示，又類啞羊。尼拘陀！比即是¶
 為汝所修行煩惱隨增。
 <pb:KR6a0011_T_002-0225b>¶
 
