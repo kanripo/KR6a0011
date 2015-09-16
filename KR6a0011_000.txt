@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 尼拘陀梵志經
+#+DATE: 2015-08-30 19:27:59.686969
+#+PROPERTY: JUAN 0
