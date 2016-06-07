@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:28:00.156983
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:19
 #+TITLE: 尼拘陀梵志經
 #+PROPERTY: CBETA_ID T01n0011
 #+PROPERTY: ID KR6a0011
